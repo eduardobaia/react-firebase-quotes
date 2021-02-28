@@ -11,3 +11,25 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: none;
+  list-style-type: none;
+}
+
+button {
+color: blue;
+  background: #333;
+  border: "none";
+  padding: 0.5rem;
+  border-radius: 2px;
+  transition: 0.2s;
+  cursor: pointer;
+  border: 1px solid #444;
+  font-family: "Josefin Sans", sans-serif;
+
+}

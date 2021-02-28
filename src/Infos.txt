@@ -1,0 +1,10 @@
+
+Fire base install..
+
+install i firebase
+
+
+Para ter botoes fixes.
+instak react-firebaseui
+
+-Criar database no firebase
